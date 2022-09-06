@@ -1,4 +1,4 @@
-See the project by clicking [here](https://kanyshaiosmonova.github.io/react-projects/gh-pages)
+See the project by clicking [here](https://kanyshaiosmonova.github.io/react-projects/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
