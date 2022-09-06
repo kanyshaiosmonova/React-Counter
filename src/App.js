@@ -9,7 +9,10 @@ function App() {
   setCount(count + 1)
  }
  const onClickMinus = () => {
-  setCount(count)
+    if(count === 0){
+      return setCount(0)
+     }else 
+      setCount(count - 1)
  };
   return (
     <div className="App">
